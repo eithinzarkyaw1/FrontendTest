@@ -1,0 +1,78 @@
+
+.container{
+	height: auto;
+	margin-bottom: 20px;
+}
+
+div#nav div.nav_left img{
+	width: 250px;
+	height: 100px;
+	vertical-align: bottom;
+	margin-left: 300px;
+}
+
+
+div#nav div.nav_left{
+	float: left;
+}
+div#nav div.nav_right{
+	float: right;
+	margin-top: 20px;
+	font-weight: bold;
+	color: #0059b3;
+}
+div.nav_right a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	padding: 14px 20px;
+	color: black;
+}
+
+
+.clear{
+	clear: both;
+}
+
+.roundimg{
+	float: left;
+}
+.roundimg img{
+	border-radius: 50%;
+	
+	margin-right: 100px;
+	width: 100px;
+	height: 100px;
+	padding-top: 10px;
+}
+
+.tayhatmaker{
+	float: left;
+	padding-right: 20px;
+}
+
+.imgdiv img{
+	float: left;
+	padding-left: 20px;
+	margin-bottom: 20px;
+	
+}
+.clear{
+	clear: both;
+}
+
+.imgdiv{
+	margin-left: 150px;
+	margin-top: 20px;
+
+}
+.rounddiv{
+	margin-left: 350px;
+
+}
+.editbtn{
+	margin-top: 17px;
+}
+.followers{
+	padding-right: 20px;
+}
